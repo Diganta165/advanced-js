@@ -12,3 +12,4 @@ console.log(premik.gf);
 
 let fun = undefined;
 console.log(fun);
+
